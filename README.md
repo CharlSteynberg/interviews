@@ -1,4 +1,4 @@
-# Realmdigital Pre-Interview Refactoring Exercise #
+# Realmdigital Pre-Interview Refactoring #
 
 The code contained herein contains duplication and inconsistencies.
 
