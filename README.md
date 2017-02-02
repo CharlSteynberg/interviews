@@ -6,6 +6,7 @@ The code contained herein contains duplication and inconsistencies.
 
 * Fork this repository
 * Refactor the code to be more manageable and consistent
+* Send a link to your forked repository, and your CV to jobs@realmdigital.co.za
 
 ### Contribution guidelines ###
 
